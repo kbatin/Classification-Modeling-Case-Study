@@ -22,14 +22,14 @@ I participated in a Kaggle competition for this project and achieved 6th place r
 - GBM Classification
 
 ### Analysis
-Data Visualization: Included insightful data visualizations with thorough explanations.
-Minimized Data Dumping: Utilized methods like .head() to keep the analysis concise.
+- Data Visualization: Included insightful data visualizations with thorough explanations.
+- Minimized Data Dumping: Utilized methods like .head() to keep the analysis concise.
 
 ### Code and Modeling Rules
-Model Types: Only used specified model types from scikit-learn.
-X-Variable Usage: Avoided polynomial or radical transformations of x-variables.
-Code Processing Time: Ensured the code runs within 60 seconds.
-Event Horizon: Included only features that can be collected before the event horizon.
-Best Practices: Maintained error-free code with ample comments.
+- Model Types: Only used specified model types from scikit-learn.
+- X-Variable Usage: Avoided polynomial or radical transformations of x-variables.
+- Code Processing Time: Ensured the code runs within 60 seconds.
+- Event Horizon: Included only features that can be collected before the event horizon.
+- Best Practices: Maintained error-free code with ample comments.
 
-View the [Birthweight Analysis Project](https://github.com/kbatin/Modeling-Case-Study/blob/main/Birthweight%20analysis.ipynb)
+#### View the [Birthweight Analysis Project](https://github.com/kbatin/Modeling-Case-Study/blob/main/Birthweight%20analysis.ipynb)
