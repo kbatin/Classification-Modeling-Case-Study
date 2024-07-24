@@ -32,4 +32,4 @@ I participated in a Kaggle competition for this project and achieved 6th place r
 - Event Horizon: Included only features that can be collected before the event horizon.
 - Best Practices: Maintained error-free code with ample comments.
 
-#### View the [Birthweight Analysis Project](https://github.com/kbatin/Modeling-Case-Study/blob/main/Birthweight%20analysis.ipynb)
+#### Check the [Birthweight Analysis Project](https://github.com/kbatin/Modeling-Case-Study/blob/main/Birthweight%20analysis.ipynb)
