@@ -1,4 +1,4 @@
-# Predicting Birthweight (April, 2024)
+# Predicting Birthweight (April 2024)
 
 ### Overview
 In this project, I served as a public health consultant tasked with analyzing and predicting birthweight, a critical measurement that can signal complications in a baby's health. Utilizing various Computational Analytics and Machine Learning techniques, I aimed to identify key factors affecting birthweight and develop predictive models that could potentially save lives.
